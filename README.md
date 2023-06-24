@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOT application and every smarts things
 - 🌱 I’m currently learning web development, embedded, IOT application
 - 📫 How to reach me eng.mostafa.mohamed.salama@gmail.com
-- linkedin account : www.linkedin.com/in/eng-mostafa-salama
+- linkedin account : https://www.linkedin.com/in/mostafamohamedsalama/
 
 
 <!---
